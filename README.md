@@ -5,10 +5,8 @@ A production-ready web service that identifies and consolidates customer contact
 ## 🌐 Live Endpoint
 
 ```
-POST https://<your-render-app>.onrender.com/identify
+POST https://bitespeed-identity-reconciliation-5mqv.onrender.com/identify
 ```
-
-> Replace the URL above with your deployed Render URL after hosting.
 
 ---
 
